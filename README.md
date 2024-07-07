@@ -13,4 +13,15 @@
 4) Не проблема, но нужно еще реализовать сохранение информации, например, через Sharedpreferences
 5) Не стала добавлять время рядом с датой, поскольку не поняла логику, 
 ведь если у пользователя есть возможность выбирать дату, то он может заполнять прошедшие дни и тогда
-наличие текущей даты будет выглядеть странно 
+наличие текущей даты будет выглядеть странно
+![image](https://github.com/Karina2002img/Test_task_diary/assets/72888792/b2b7c606-0c86-4ae1-b8a6-bd10bc6591ab)
+![image](https://github.com/Karina2002img/Test_task_diary/assets/72888792/198c5076-ffb0-4f4b-b2c5-40d7928b7588)
+![image](https://github.com/Karina2002img/Test_task_diary/assets/72888792/c26fcd13-3231-45d2-9086-9dbe70a21900)
+![image](https://github.com/Karina2002img/Test_task_diary/assets/72888792/26f32c8b-e404-4382-b8d1-7fcf0726353c)
+![image](https://github.com/Karina2002img/Test_task_diary/assets/72888792/df3e4cf2-ebe7-4deb-8d4f-a98a53f65f18)
+
+
+
+
+
+
